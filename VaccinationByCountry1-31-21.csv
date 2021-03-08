@@ -1,0 +1,64 @@
+country,iso_code,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,daily_vaccinations_raw,daily_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred,daily_vaccinations_per_million,vaccines,source_name,source_website
+Andorra,AND,1/31/2021,,,,,66,,,,854,Pfizer/BioNTech,Government of Andorra,https://www.govern.ad/comunicats/item/12379-se-supera-el-miler-de-persones-vacunes-contra-el-coronavirus-sars-cov-2-a-andorra
+Argentina,ARG,1/31/2021,,,,,11299,,,,250,Sputnik V,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Austria,AUT,1/31/2021,200498,185291,15207,3319,8709,2.23,2.06,0.17,967,Pfizer/BioNTech,Ministry of Health,https://www.data.gv.at/katalog/dataset/589132b2-c000-4c60-85b4-c5036cdf3406
+Bahrain,BHR,1/31/2021,171568,171568,,1135,1841,10.08,10.08,,1082,"Pfizer/BioNTech, Sinopharm",Ministry of Health,https://twitter.com/MOH_Bahrain/status/1357433853447729159
+Belgium,BEL,1/31/2021,315448,294027,21421,857,11282,2.72,2.54,0.18,973,"Moderna, Pfizer/BioNTech",Sciensano,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB
+Bolivia,BOL,1/31/2021,67,,,28,22,0,,,2,Sputnik V,Ministry of Health,https://boliviasegura.gob.bo/noticias/
+Brazil,BRA,1/31/2021,2074059,2046523,,70848,209905,0.98,0.96,,988,"Oxford/AstraZeneca, Sinovac",Regional governments via Coronavirus Brasil,https://coronavirusbra1.github.io/
+Bulgaria,BGR,1/31/2021,41125,28041,13084,105,2140,0.59,0.4,0.19,308,"Moderna, Pfizer/BioNTech",Ministry of Health,https://coronavirus.bg/bg/statistika
+Canada,CAN,1/31/2021,,,,,25221,,,,668,"Moderna, Pfizer/BioNTech",Government of Canada,https://health-infobase.canada.ca/covid-19/vaccination-coverage/
+Cayman Islands,CYM,1/31/2021,,,,,275,,,,4184,Pfizer/BioNTech,Cayman Islands Government,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard
+Chile,CHL,1/31/2021,,,,,919,,,,48,"Pfizer/BioNTech, Sinovac",Department of Statistics and Health Information,https://informesdeis.minsal.cl/SASVisualAnalytics/?reportUri=%2Freports%2Freports%2F1a8cc7ff-7df0-474f-a147-929ee45d1900&sectionIndex=0&sso_guest=true&reportViewOnly=true&reportContextBar=false&sas-welcome=false
+China,CHN,1/31/2021,24000000,24000000,,,651673,1.67,1.67,,453,"CNBG, Sinovac",National Health Commission,https://news.yahoo.com/china-administered-31-2-million-071552622.html
+Costa Rica,CRI,1/31/2021,,,,,1555,,,,305,Pfizer/BioNTech,National Health Commission,https://www.swissinfo.ch/spa/coronavirus-costa-rica_costa-rica-ha-aplicado-57.701-vacunas-contra-la-covid-19/46336712
+Croatia,HRV,1/31/2021,,,,,2045,,,,498,Pfizer/BioNTech,Ministry of Health,https://vlada.gov.hr/vijesti/i-dalje-potreban-oprez-730-novih-slucajeva-zaraze/31434
+Czechia,CZE,1/31/2021,273094,233916,39178,1815,10001,2.55,2.18,0.37,934,"Moderna, Pfizer/BioNTech",Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+Denmark,DNK,1/31/2021,277136,188775,88361,13321,9153,4.78,3.26,1.53,1580,"Moderna, Pfizer/BioNTech",Statens Serum Institut,https://files.ssi.dk/covid19/vaccinationstilslutning/vaccinationstilslutning-04022021-n1z9
+Ecuador,ECU,1/31/2021,,,,,472,,,,27,Pfizer/BioNTech,Government of Ecuador,https://drive.google.com/file/d/1HRz845fa451ZHJmxSDlJAD92CAr75VFs/view
+England,,1/31/2021,8543262,8082355,460907,292116,339126,15.18,14.36,0.82,6025,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Estonia,EST,1/31/2021,38055,27900,10155,825,1727,2.87,2.1,0.77,1302,Pfizer/BioNTech,National Health Board,https://www.terviseamet.ee/et/uudised/covid-19-blogi-5-veebruar-oopaevaga-lisandus-596-positiivset-testi
+Finland,FIN,1/31/2021,,,,,8404,,,,1517,Pfizer/BioNTech,Finnish Institute for Health and Welfare,https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html
+France,FRA,1/31/2021,1533630,1486493,47137,8253,75666,2.26,2.19,0.07,1115,Pfizer/BioNTech,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+Germany,DEU,1/31/2021,2512113,1948477,563636,62182,94332,3,2.33,0.67,1126,"Moderna, Pfizer/BioNTech",Robert Koch Institut,https://impfdashboard.de/
+Gibraltar,GIB,1/31/2021,13286,12886,400,420,421,39.43,38.25,1.19,12496,Pfizer/BioNTech,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1357291680366555137
+Greece,GRC,1/31/2021,,,,,16075,,,,1542,Pfizer/BioNTech,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
+Hungary,HUN,1/31/2021,299138,237872,61266,20308,20434,3.1,2.46,0.63,2115,Pfizer/BioNTech,Government of Hungary,https://koronavirus.gov.hu/cikkek/1576-fovel-emelkedett-beazonositott-fertozottek-szama-es-elhunyt-98-beteg
+Iceland,ISL,1/31/2021,,,,,417,,,,1222,"Moderna, Pfizer/BioNTech",Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
+India,IND,1/31/2021,3758843,,,14509,306191,0.27,,,222,"Covaxin, Oxford/AstraZeneca",Ministry of Health,https://www.mohfw.gov.in/
+Indonesia,IDN,1/31/2021,515681,493133,22548,12726,52348,0.19,0.18,0.01,191,Sinovac,Ministry of Health,https://www.kemkes.go.id/
+Ireland,IRL,1/31/2021,199800,150500,49300,,8114,4.05,3.05,1,1643,Pfizer/BioNTech,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
+Isle of Man,IMN,1/31/2021,,,,,508,,,,5974,Pfizer/BioNTech,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+Israel,ISR,1/31/2021,4884965,3086780,1798185,131948,162593,56.44,35.66,20.77,18785,"Moderna, Pfizer/BioNTech",Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
+Italy,ITA,1/31/2021,1981744,1349854,631890,58688,78739,3.28,2.23,1.05,1302,"Moderna, Pfizer/BioNTech",Extraordinary commissioner for the Covid-19 emergency,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv
+Jersey,JEY,1/31/2021,14838,11707,3131,,493,14.68,11.58,3.1,4878,Pfizer/BioNTech,Government of Jersey,https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx
+Latvia,LVA,1/31/2021,23767,,,334,626,1.26,,,332,Pfizer/BioNTech,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+Lithuania,LTU,1/31/2021,93783,71764,22019,8,3667,3.45,2.64,0.81,1347,"Moderna, Pfizer/BioNTech",Ministry of Health,https://ls-osp-sdg.maps.arcgis.com/apps/opsdashboard/index.html#/b7063ad3f8c149d394be7f043dfce460
+Luxembourg,LUX,1/31/2021,12428,10748,1680,,613,1.99,1.72,0.27,979,Pfizer/BioNTech,Government of Luxembourg,https://data.public.lu/fr/datasets/r/1f6f6910-8dc4-4d17-9fbe-03bbc9664591
+Maldives,MDV,1/31/2021,0,,,,,0,,,,Oxford/AstraZeneca,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1357374641090789377
+Malta,MLT,1/31/2021,,,,,1046,,,,2369,Pfizer/BioNTech,Ministry of Health,https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/covid-19-infographics.aspx
+Mexico,MEX,1/31/2021,673327,631485,41842,3020,6243,0.52,0.49,0.03,48,Pfizer/BioNTech,Secretary of Health,https://www.gob.mx/salud/prensa/version-estenografica-conferencia-de-prensa-informe-diario-sobre-coronavirus-covid-19-en-mexico-263016?idiom=es
+Morocco,MAR,1/31/2021,126000,,,36000,42000,0.34,,,1138,"Oxford/AstraZeneca, Sinopharm",Ministry of Health,http://www.covidmaroc.ma/Documents/BULLETIN/4.2.21.COVID-19.pdf
+Nepal,NPL,1/31/2021,,,,,18862,,,,647,Oxford/AstraZeneca,Government of Nepal,https://myrepublica.nagariknetwork.com/news/over-1-million-people-receive-covid-19-vaccine-in-nepal-so-far/
+Netherlands,NLD,1/31/2021,176286,,,,4239,1.03,,,247,"Moderna, Pfizer/BioNTech",National Institute for Public Health and the Environment,https://coronadashboard.rijksoverheid.nl/landelijk/vaccinaties
+Northern Ireland,,1/31/2021,246421,221809,24612,7497,9152,13.01,11.71,1.3,4833,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Norway,NOR,1/31/2021,127152,107271,19881,130,6611,2.35,1.98,0.37,1219,Pfizer/BioNTech,Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
+Poland,POL,1/31/2021,1176904,976367,200537,19973,67061,3.11,2.58,0.53,1772,Pfizer/BioNTech,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+Portugal,PRT,1/31/2021,336771,268386,68385,6538,13398,3.3,2.63,0.67,1314,Pfizer/BioNTech,National Health Service,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Romania,ROU,1/31/2021,691415,585218,106197,19019,35019,3.59,3.04,0.55,1820,Pfizer/BioNTech,Government of Romania,https://vaccinare-covid.gov.ro/wp-content/uploads/2021/02/04.02.21-Tabel-situatie-vaccinari-2.pdf
+Saudi Arabia,SAU,1/31/2021,,,,,10385,,,,298,Pfizer/BioNTech,Saudi Health Council,https://coronamap.sa
+Scotland,,1/31/2021,583746,575897,7849,9683,23258,10.68,10.54,0.14,4257,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Serbia,SRB,1/31/2021,,,,,34158,,,,5020,"Pfizer/BioNTech, Sinopharm, Sputnik V",Government of Serbia,https://www.danas.rs/drustvo/vakcinu-dobilo-526-930-gradjana-nis-i-dalje-vodeci-u-zemlji/
+Seychelles,SYC,1/31/2021,,,,,2079,,,,21141,"Oxford/AstraZeneca, Sinopharm",Extended Programme for Immunisation,https://www.facebook.com/mohseychellesofficial/photos/1648953545305770
+Singapore,SGP,1/31/2021,155050,155000,50,,10547,2.65,2.65,0,1803,Pfizer/BioNTech,Ministry of Health,https://www.moh.gov.sg/news-highlights/details/second-covid-19-vaccine-authorised-for-use-in-singapore
+Slovakia,SVK,1/31/2021,143098,133675,9423,281,6247,2.62,2.45,0.17,1144,Pfizer/BioNTech,Ministry of Health,https://covid-19.nczisk.sk
+Slovenia,SVN,1/31/2021,78285,53415,24870,2,2385,3.77,2.57,1.2,1147,Pfizer/BioNTech,"National Institute of Public Health, via Sledilnik",https://covid-19.sledilnik.org/en/stats
+Spain,ESP,1/31/2021,1609261,1251369,357892,,53095,3.44,2.68,0.77,1136,"Moderna, Pfizer/BioNTech",Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210204.ods
+Sri Lanka,LKA,1/31/2021,59154,,,21329,19718,0.28,,,921,Oxford/AstraZeneca,Ministry of Health,https://twitter.com/Rumindahg/status/1357745308390875137
+Sweden,SWE,1/31/2021,,,,,6960,,,,689,Pfizer/BioNTech,Public Health Agency of Sweden,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/vaccination-mot-covid-19/statistik/statistik-over-registrerade-vaccinationer-covid-19/
+Switzerland,CHE,1/31/2021,315033,,,,16809,3.64,,,1942,"Moderna, Pfizer/BioNTech",Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses
+Turkey,TUR,1/31/2021,1986237,,,25377,105941,2.36,,,1256,Sinovac,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
+United Arab Emirates,ARE,1/31/2021,3334162,3084162,250000,219995,120910,33.71,31.18,2.53,12225,"Pfizer/BioNTech, Sinopharm",National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
+United Kingdom,GBR,1/31/2021,9790576,9296367,494209,322194,392361,14.42,13.69,0.73,5780,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+United States,USA,1/31/2021,31123299,25201143,5657142,1545397,1324949,9.31,7.54,1.69,3962,"Moderna, Pfizer/BioNTech",Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/#vaccinations
+Wales,,1/31/2021,417147,416306,841,12898,20824,13.23,13.2,0.03,6605,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
